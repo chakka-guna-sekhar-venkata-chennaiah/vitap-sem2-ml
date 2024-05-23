@@ -364,9 +364,9 @@ def model_building():
                 
                 if st.checkbox('PipeLine Building for treating missing values and  model deploying'):
                     numerical=['mean','median']
-                    categorical=['most_frequent','constant']
+                    categorical=['most_frequent']
                     ns=st.radio('Filling for numerical columns',numerical)
-                    cs=st.radio('Filling for numerical columns',categorical)
+                    cs=st.radio('Filling for categorical columns',categorical)
                 
                 if st.checkbox('Numerical Pipeline building for treating np.nan values'):
                     numerical_cols=Pipeline(
