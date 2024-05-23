@@ -77,7 +77,7 @@ def home():
 
     st.write("""
     ---\n
-    Made with ❤️ by Chakka Guna Sekhar Venkata Chennaiah.
+    Made with ❤️ by Chakka Guna Sekhar Venkata Chennaiah & T. Kiran Adithya.
     """)
     st.write("Instructions for Using Our App:")
     st.write("* Navigate to the Signup page and complete the process to become eligible for login.")
@@ -159,12 +159,12 @@ def about_page():
     st.write("""
     ## About This App
 
-    This app was created to showcase how to create an About page in Streamlit that contains developer information.
+    This app was created to showcase how to create an About page in Streamlit that contains developers information.
 
-    ## Developer Information
+    ## Developers Information
 
-    This app was developed by Chakka Guna Sekhar Venkata Chennaiah.
-    If you have any questions or feedback, feel free to reach out to me at email [sekharchennaiah12345ctk@gmail.com].
+    This app was developed by Chakka Guna Sekhar Venkata Chennaiah & T. Kiran Adithya.
+    If you have any questions or feedback, feel free to reach out to us in the below mentioned social media handles!!
 
     ## Technologies Used
 
@@ -174,7 +174,7 @@ def about_page():
 
     ## Source Code
 
-    The source code for this app is available on [GitHub](https://github.com/software-babooi/minor-ml-webapp-project.git).
+    The source code for this app is available on [GitHub](https://github.com/chakka-guna-sekhar-venkata-chennaiah/vitap-sem2-ml.git).
 
     ## Acknowledgements
 
