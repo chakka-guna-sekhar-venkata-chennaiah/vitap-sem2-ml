@@ -341,9 +341,9 @@ def model_building():
                     y=df1['Loan_Status']
                     dependent_features=x
                     independent_features=y
-                    st.write('Dependent Features are as follows:')
-                    st.write(dependent_features)
                     st.write('Independent Features are as follows:')
+                    st.write(dependent_features)
+                    st.write('Dependent Features are as follows:')
                     st.write(independent_features)
                 
                 if st.checkbox('Splitting data into training and testing'):
