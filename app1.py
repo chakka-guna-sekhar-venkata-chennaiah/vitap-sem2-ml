@@ -190,9 +190,13 @@ def about_page():
     st.write("""
     #### Connect with us:
     [![Email](https://img.shields.io/badge/Email-sekharchennaiah12345ctk@gmail.com-blue)](mailto:sekharchennaiah12345ctk@gmail.com)
-    [![Instagram](https://img.shields.io/badge/Instagram-vinayaka_03-orange)](https://www.instagram.com/vinayaka_03/)
+    [![LinkedIn](https://img.shields.io/badge/LinkedIn-chakka-guna-sekhar-venkata-chennaiah-orange)](https://www.linkedin.com/in/chakka-guna-sekhar-venkata-chennaiah-7a6985208/)
     """)
-
+    st.write('------')
+    st.write("""
+    [![Email](https://img.shields.io/badge/Email-sekharchennaiah12345ctk@gmail.com-blue)](mailto:sekharchennaiah12345ctk@gmail.com)
+    [![LinkedIn](https://img.shields.io/badge/LinkedIn-kiran-adithya-orange)](https://www.linkedin.com/in/kiran-adithya-1a345b299/)
+    """)
     st.write("""
     #### Version:
     1.0.0
