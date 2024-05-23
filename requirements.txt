@@ -1,0 +1,10 @@
+scikit-learn==1.2.2
+xgboost
+joblib
+sweetviz
+streamlit
+pandas
+numpy
+matplotlib
+seaborn
+imblearn
