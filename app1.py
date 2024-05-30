@@ -194,7 +194,7 @@ def about_page():
     """)
     st.write('------')
     st.write("""
-    [![Email](https://img.shields.io/badge/Email-sekharchennaiah12345ctk@gmail.com-blue)](mailto:thammali.kadithya19@gmail.com)
+    [![Email](https://img.shields.io/badge/Email-thammali.kadithya19@gmail.com-blue)](mailto:thammali.kadithya19@gmail.com)
     [![LinkedIn](https://img.shields.io/badge/LinkedIn-kiran_adithya-orange)](https://www.linkedin.com/in/kiran-adithya-1a345b299/)
     """)
     st.write("""
